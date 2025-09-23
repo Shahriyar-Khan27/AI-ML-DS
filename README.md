@@ -1,5 +1,5 @@
 
-# Cold Email Generator
+# AI Powered Email Generation
 
 This project is designed to scrape job postings from websites and generate structured JSON outputs, making it easier to extract relevant information such as role descriptions, skills, and experience. Using the `LangChain` framework, it leverages large language models to process the raw text.
 
