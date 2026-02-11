@@ -86,3 +86,5 @@ cold_email_generator/
 ## License
 
 This project is licensed under the MIT License.
+
+#Basic version
